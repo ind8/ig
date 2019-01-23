@@ -1,6 +1,17 @@
 # ![Image](Instagram2016_white-(64px).png) Instagram NODE JS API V1
 <br/>
 
+## Cara Install di Termux
+	*pkg install git
+	*pkg insatll nodejs
+	*pkg install nodejs-lts
+	*npm install instagram-private-api
+	*git clone https://github.com/ind8/ig
+	*cd ig
+	*unzip node_modules.zip
+	*node index
+<br/>
+
 ## How to install (DEFAULT or BASIC USAGE)
 	* git clone https://github.com/rrudy0966/instatools
 	* cd instatools
