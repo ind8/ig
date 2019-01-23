@@ -2,14 +2,14 @@
 <br/>
 
 ## Cara Install di Termux
-	*pkg install git
-	*pkg insatll nodejs
-	*pkg install nodejs-lts
-	*npm install instagram-private-api
-	*git clone https://github.com/ind8/ig
-	*cd ig
-	*unzip node_modules.zip
-	*node index
+	* pkg install git
+	* pkg insatll nodejs
+	* pkg install nodejs-lts
+	* npm install instagram-private-api
+	* git clone https://github.com/ind8/ig
+	* cd ig
+	* unzip node_modules.zip
+	* node index
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
