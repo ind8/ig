@@ -111,12 +111,7 @@ const main = async () => {
 
 console.log(chalk`
   {bold.cyan
-  ╦┌┐┌┌─┐┌┬┐┌─┐┌─┐┬─┐┌─┐┌┬┐
-  ║│││└─┐ │ ├─┤│ ┬├┬┘├─┤│││
-  ╩┘└┘└─┘ ┴ ┴ ┴└─┘┴└─┴ ┴┴ ┴
-  ╔╦╗┌─┐┌─┐┬  ┌─┐    © 2018
-   ║ │ ││ ││  └─┐   SGBTeam 
-   ╩ └─┘└─┘┴─┘└─┘   -------       
+  Mod by Ind8 - Terimong Geunaseh SGBTeam      
 }
       `);
 
